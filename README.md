@@ -1,4 +1,12 @@
 # Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+KICKSTARTER
+1.  Here you can see the Demo
+- [DEMO LINK](https://VVHimiak.github.io/<repo_name>/)
+
+2. Here you can find design of landing page.
+ - [Figma LINK](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=0%3A1)
+
+3. Description
+-Technologies used: HTML, SCSS, BEM, JS
+
+-Fully responsive layout was made by using CSS Grid and Flex (mobile, tablet, laptop, high screens)
